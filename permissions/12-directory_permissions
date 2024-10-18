@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p my_dir chmod 751 my_dir
+umask 027 mkdir -p my_dir chmod 751 my_dir
