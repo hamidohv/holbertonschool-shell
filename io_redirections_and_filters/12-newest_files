@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt --time=birth --reverse 
+ls -lt --time=creation --reverse
