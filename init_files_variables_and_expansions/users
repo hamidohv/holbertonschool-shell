@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Current user (whoami): $(whoami)"
+echo "Current user (\$USER): $USER"
+echo "Current user (id): $(id -un)"
+echo "Current user (logname): $(logname)"
